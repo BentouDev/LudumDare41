@@ -1,0 +1,19 @@
+racing
+strategy
+shooter
+fighting
+dating sim
+sport
+shmup
+cards
+stealth
+survival
+tower defense
+
+
+
+- explosions
+- juice
+- sfx'es
+- cute
+- glitchy
